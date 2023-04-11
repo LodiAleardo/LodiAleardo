@@ -1,13 +1,15 @@
 
 # Hi 👋, I'm Aleardo Lodi
-I am a Software Engineer that currently is searching work and finishing his master degree with a thesis on MAPF
+
+I am a Software Engineer that currently is finishing his master degree with a thesis on MAPF
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lodialeardo&label=Profile%20views&color=0e75b6&style=flat" alt="lodialeardo" /> </p>
 
-- 🔭 I’m currently working on [LodiForms](lodiforms.com) and my master thesis
-- 🤝 I’m also currently open to work
-- 👨‍💻 All of my projects are available [here](lodiforms.com) and [here](lodiplanner.com)
+- 🔭 I am currently working on [LodiForms](lodiforms.com) a form builder
+- 🤝 I am currently open to work outside Italy
+- 👨‍💻 I've also coded a route planner [here](lodiplanner.com)
 - 📫 Send me an email at **aleardo.lodi@gmail.com**
+- 📝 If you want my CV please send me an email
 
 
 ## Main technologies:
