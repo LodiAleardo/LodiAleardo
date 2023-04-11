@@ -1,6 +1,6 @@
 
 # Hi 👋, I'm Aleardo Lodi
-<h3 align="left">I am a software engineer that currently is searching work in tech and finishing his master degree with a thesis on MAPF</h3>
+I am a Software Engineer that currently is searching work and finishing his master degree with a thesis on MAPF
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lodialeardo&label=Profile%20views&color=0e75b6&style=flat" alt="lodialeardo" /> </p>
 
