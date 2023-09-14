@@ -5,7 +5,7 @@ I am a Software Engineer that currently is finishing his master degree with a th
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lodialeardo&label=Profile%20views&color=0e75b6&style=flat" alt="lodialeardo" /> </p>
 
-- 💻 I am currently open to work outside Italy 
+- 💻 I am currently working in Switzerland 
 - 🔭 I am currently working on a form builder [here](https://lodiforms.com)
 - 👨‍💻 I've also coded a route planner [here](https://lodiplanner.com)
 - 📫 Send me an email at **aleardo.lodi@gmail.com**
