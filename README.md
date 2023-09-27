@@ -9,6 +9,7 @@ I am a Software Engineer that currently is finishing his master degree with a th
 - 🔭 I am currently working on a form builder [here](https://lodiforms.com)
 - 👨‍💻 I've also coded a route planner [here](https://lodiplanner.com)
 - 📫 Send me an email at **aleardo.lodi@gmail.com**
+- 📔 My [linkedin profile]([link](https://linkedin.com/in/lodialeardo))
 
 ## Main technologies:
 
@@ -45,19 +46,9 @@ I am a Software Engineer that currently is finishing his master degree with a th
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
     <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" /> </a>
-    <br/>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" /> </a>
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" /> </a>
 
-</p>
-
-## Profiles
-
-<p align="left">
-    <a href="https://linkedin.com/in/lodialeardo" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lodialeardo" height="30" width="40" />
-    </a>
-    <a href="mailto:aleardo.lodi@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/download/110850/email.svg" height="30" width="40" /></a>
 </p>
