@@ -9,7 +9,7 @@ I am a Software Engineer that currently is finishing his master degree with a th
 - 🔭 I am currently working on a form builder [here](https://lodiforms.com)
 - 👨‍💻 I've also coded a route planner [here](https://lodiplanner.com)
 - 📫 Send me an email at **aleardo.lodi@gmail.com**
-- 📔 My [linkedin profile]([link](https://linkedin.com/in/lodialeardo))
+- 📔 My [linkedin profile](https://linkedin.com/in/lodialeardo)
 
 ## Main technologies:
 
