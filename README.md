@@ -61,6 +61,3 @@ I am a Software Engineer that currently is finishing his master degree with a th
     </a>
     <a href="mailto:aleardo.lodi@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/download/110850/email.svg" height="30" width="40" /></a>
 </p>
-
-&nbsp;&nbsp;
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lodialeardo&" alt="lodialeardo" /></p>
