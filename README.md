@@ -6,8 +6,6 @@
 - 🔭 One of my current side projects is a form builder [here](https://lodiforms.com)
 - 👨‍💻 I've also coded a route planner [here](https://lodiplanner.com)
 - 📫 Send me an email at **aleardo.lodi@gmail.com**
-[comment]: <> (- 📔 My [linkedin profile](https://linkedin.com/in/lodialeardo))
-
 
 ## Technologies that I work with:
 - C#/.NET
