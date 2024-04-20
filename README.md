@@ -1,10 +1,9 @@
 
 # Hi 👋, I'm Aleardo Lodi
 
-I am a Software Engineer that currently is finishing his master degree with a thesis on MAPF
-
-- 💻 I am currently working in Switzerland 
-- 🔭 I am currently working on a form builder [here](https://lodiforms.com)
+- 🎓 I finished my Master degree in Computer sciense
+- 💻 I am currently working as a SWE
+- 🔭 One of my current side projects is a form builder [here](https://lodiforms.com)
 - 👨‍💻 I've also coded a route planner [here](https://lodiplanner.com)
 - 📫 Send me an email at **aleardo.lodi@gmail.com**
 - 📔 My [linkedin profile](https://linkedin.com/in/lodialeardo)
