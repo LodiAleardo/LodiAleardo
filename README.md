@@ -23,6 +23,6 @@
 ## Favourite CLoud provider?
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="background-color: white">
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="70" height="40" style="background-color: white" />
-</a>  -> All except the UI
+</a>
 
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" /> </a> -> Only the UI not the support
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" /> </a>
