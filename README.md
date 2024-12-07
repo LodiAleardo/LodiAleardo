@@ -3,7 +3,6 @@
 
 - 🎓 I finished my Master degree in Computer sciense
 - 💻 I am currently working as a SWE
-- 🔭 One of my current side projects is a form builder [here](https://lodiforms.com)
 - 👨‍💻 I've also coded a route planner [here](https://lodiplanner.com)
 - 📫 Send me an email at **aleardo.lodi@gmail.com**
 
